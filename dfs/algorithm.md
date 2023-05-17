@@ -5,8 +5,9 @@ This is a `directed` graph represented as an `Edge List` - set of nodes and edge
 
 Time Complexity is O(N + E)
 
-Here is an example
-![Simple Graph](simple_graph.png)
+Here is an example graph 
+
+![_](simple_graph.png)
 
 This can be denoted in JSON like 
 
